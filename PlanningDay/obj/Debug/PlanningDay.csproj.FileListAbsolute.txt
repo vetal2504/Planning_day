@@ -1,0 +1,17 @@
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\bin\Debug\PlanningDay.exe.config
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\bin\Debug\PlanningDay.exe
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\bin\Debug\PlanningDay.pdb
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.csprojResolveAssemblyReference.cache
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.MainForm.resources
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.Properties.Resources.resources
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.csproj.GenerateResource.Cache
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.exe
+c:\users\pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.pdb
+C:\Users\Pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\bin\Debug\EntityFramework.dll
+C:\Users\Pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\bin\Debug\EntityFramework.xml
+C:\Users\Pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.FormAdd.resources
+C:\Users\Pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.Migrations.InitialCreate.resources
+C:\Users\Pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.Migrations.AddTaskMigration.resources
+C:\Users\Pan\documents\visual studio 2015\Projects\PlanningDay\PlanningDay\obj\Debug\PlanningDay.FormUpdate.resources
